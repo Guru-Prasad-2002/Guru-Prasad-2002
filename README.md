@@ -26,6 +26,16 @@ Greetings! I'm a computer science student from Bengaluru, currently studying at 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 [![ubantu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![rospy](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](http://wiki.ros.org/rospy)
+[![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+[![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
+[![matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/ScikitLearn-3776AB?style=for-the-badge&logo=ScikitLearn&logoColor=white)](https://scikit-learn.org/stable/)
+[![scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org/)
+[![seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=Plotly&logoColor=white)](https://plotly.com/)
+[![pyqt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=PyQt5&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/intro)
 
 ## Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-guru-prasad-675720206/)
