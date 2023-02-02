@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Greetings! I'm a computer science student from Bengaluru, currently studying at BMSIT&M. My interests lie in web development, machine learning, deep learning, and data science. Skilled in HTML/CSS/Bootstrap and Python/Java. Excited to create and innovate in the tech world. 💻
+Hey there! I'm a computer science student from Bengaluru, studying at BMSIT&M. My passions are in web development, machine learning, deep learning, and data science. I'm skilled in HTML/CSS/Bootstrap and Python/Java, and I'm pumped to make cool stuff in the tech world! 💻
 
 ## Technologies & Tools
 <!-- include html5 just logo -->
