@@ -43,3 +43,9 @@ Hey there! I'm a computer science student from Bengaluru, studying at BMSIT&M. M
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gurujissrr/)
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gurujissrr/)
 [![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guru-Prasad-2002)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Guru-Prasad-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guru-Prasad-2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Prasad-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
